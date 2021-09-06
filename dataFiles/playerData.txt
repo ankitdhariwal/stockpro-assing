@@ -1,0 +1,65 @@
+[
+   {
+      "id":1,
+      "name":"Ankit Dhariwal",
+      "email":"ankitdhariwal2@gmail.com",
+      "game_id":1,
+      "rank":"0",
+      "fruits_earned":"0",
+      "player_score":"0"
+   },
+   {
+      "id":2,
+      "name":"Varun Singh",
+      "email":"varun.singh@gmail.com",
+      "game_id":1,
+      "rank":"0",
+      "fruits_earned":"0",
+      "player_score":"0"
+   },
+   {
+      "id":3,
+      "name":"Gautam verma",
+      "email":"gautamverma0@gmail.com",
+      "game_id":1,
+      "rank":"0",
+      "fruits_earned":"0",
+      "player_score":"0"
+   },
+   {
+      "id":4,
+      "name":"Vv",
+      "email":"vv@gmail.com",
+      "game_id":1,
+      "rank":"0",
+      "fruits_earned":"0",
+      "player_score":"0"
+   },
+   {
+      "id":5,
+      "name":"ali khan",
+      "email":"ali_khan@gmail.com",
+      "game_id":1,
+      "rank":"0",
+      "fruits_earned":"0",
+      "player_score":"0"
+   },
+   {
+      "id":6,
+      "name":"geogre jonh",
+      "email":"geogre.jonh@gmail.com",
+      "game_id":1,
+      "rank":"0",
+      "fruits_earned":"0",
+      "player_score":"0"
+   },
+   {
+      "id":7,
+      "name":"Ujjawal Malik",
+      "email":"geogre.jonh@gmail.com",
+      "game_id":1,
+      "rank":"0",
+      "fruits_earned":"0",
+      "player_score":"0"
+   }
+]
